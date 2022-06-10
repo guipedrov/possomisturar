@@ -2,7 +2,12 @@ import React from 'react'
 
 const Substance = () => {
   return (
-    <div>Substance</div>
+    <div className="small container">
+      <div>
+
+
+      </div>
+    </div>
   )
 }
 
